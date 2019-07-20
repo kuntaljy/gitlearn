@@ -1,2 +1,3 @@
 this is a test text.
 this is B commit;
+this is A commit!
