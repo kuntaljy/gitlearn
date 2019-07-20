@@ -5,3 +5,4 @@ this origin commit!
 this is a amend test!
 this is a amend test2
 this is test commit!
+this is a merge test!
