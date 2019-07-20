@@ -1,3 +1,5 @@
 this is a test text.
 this is A commit!
 this origin commit!
+this is a amend test!
+this is a amend test2
